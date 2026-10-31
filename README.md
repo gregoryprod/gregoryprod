@@ -56,9 +56,15 @@
 
 ## Стек и инструменты
 
-**Продукты и сервисы:** Ruby on Rails · Hotwire (Turbo, Stimulus) · PostgreSQL · HTML / CSS / JavaScript.
+**Продукты и сервисы**
 
-**AI и интеграции:** Codex · Claude Code · MCP · REST API · Telegram Bot API · Bitrix24.
+<img src="assets/stack/rubyonrails.svg" alt="Ruby on Rails" height="46"> <img src="assets/stack/hotwire.svg" alt="Hotwire" height="46"> <img src="assets/stack/postgresql.svg" alt="PostgreSQL" height="46"> <img src="assets/stack/html5.svg" alt="HTML" height="46"> <img src="assets/stack/css.svg" alt="CSS" height="46"> <img src="assets/stack/javascript.svg" alt="JavaScript" height="46">
+
+**AI и интеграции**
+
+<img src="assets/stack/openai.svg" alt="Codex" height="46"> <img src="assets/stack/claude.svg" alt="Claude Code" height="46"> <img src="assets/stack/modelcontextprotocol.svg" alt="MCP" height="46"> <img src="assets/stack/telegram.svg" alt="Telegram Bot API" height="46"> <img src="assets/stack/bitrix24.svg" alt="Битрикс24" height="46">
+
+REST API · Turbo · Stimulus
 
 **Данные и исследования:** CRM-аналитика · CJM / JTBD · юнит-экономика · дашборды и проверка гипотез.
 
