@@ -10,15 +10,15 @@
 <tr>
 <td width="50%" valign="top">
 <h3>MaterLux · AI-обучение</h3>
-<a href="assets/portfolio/training.jpg"><img src="assets/portfolio/training.jpg" alt="MaterLux · AI-обучение" width="440"></a>
+<a href="assets/screens/materlux-workshop.jpg"><img src="assets/screens/materlux-workshop.jpg" alt="MaterLux · AI-обучение" width="440"></a>
 <p>Практика на задачах отделов: звонки, отчёты, маркетинг. На выходе — проекты и прототипы участников.</p>
 <p><a href="https://shared.gregorybog.ru/pages/cases-and-reviews/#training">Работы и отзывы →</a></p>
 </td>
 <td width="50%" valign="top">
 <h3>Собственная LMS</h3>
-<a href="assets/portfolio/lms.jpg"><img src="assets/portfolio/lms.jpg" alt="Собственная LMS" width="440"></a>
+<a href="assets/screens/materlux-program.jpg"><img src="assets/screens/materlux-program.jpg" alt="Собственная LMS" width="440"></a>
 <p>Уроки, записи, тесты и задания в одной платформе. Использую для корпоративной программы MaterLux.</p>
-<p><a href="assets/portfolio/lms.jpg">Открыть экран →</a></p>
+<p><a href="assets/screens/materlux-program.jpg">Открыть экран →</a></p>
 </td>
 </tr>
 <tr>
@@ -96,9 +96,9 @@
 </td>
 <td width="50%" valign="top">
 <h3>«Навстречу» · сайт и лендинг</h3>
-<a href="assets/portfolio/nav-site.jpg"><img src="assets/portfolio/nav-site.jpg" alt="«Навстречу» · сайт и лендинг" width="440"></a>
+<a href="assets/screens/navstrechu-site.jpg"><img src="assets/screens/navstrechu-site.jpg" alt="«Навстречу» · сайт и лендинг" width="440"></a>
 <p>Программа для подростков и родителей, семейный чек-ап и путь к первому обращению.</p>
-<p><a href="https://navstrechu-family.ru/">Открыть сайт →</a></p>
+<p><a href="https://navstrechu-family.ru/">Открыть сайт →</a> · <a href="assets/screens/navstrechu-signals.jpg">Ещё экран</a></p>
 </td>
 </tr>
 <tr>
@@ -113,6 +113,20 @@
 <a href="assets/portfolio/roskod.jpg"><img src="assets/portfolio/roskod.jpg" alt="РосКод · сайт услуг" width="440"></a>
 <p>Структура предложения, квизы и дизайн-версии сайта по штрих-кодам. Формы в прототипах демонстрационные.</p>
 <p><a href="https://shared.gregorybog.ru/pages/roskod-versions/">Посмотреть версии →</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>VetPetCare · сайт клиники</h3>
+<a href="assets/screens/vetpetcare-site.jpg"><img src="assets/screens/vetpetcare-site.jpg" alt="VetPetCare — сайт ветеринарного центра" width="440"></a>
+<p>Специалисты, направления и квиз подбора врача. Понятный путь от запроса до записи на консультацию.</p>
+<p><a href="https://new.vetpetcare.ru/">Открыть сайт →</a> · <a href="assets/screens/vetpetcare-specialists.jpg">Ещё экран</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>Sofa Play · сайт детского центра</h3>
+<a href="assets/screens/sofaplay-site.jpg"><img src="assets/screens/sofaplay-site.jpg" alt="Sofa Play — сайт детского центра" width="440"></a>
+<p>Направления, возрастные программы и подбор занятия. Структура сайта помогает родителю выбрать подходящий формат.</p>
+<p><a href="https://new.sofaplay.ru/">Открыть сайт →</a> · <a href="assets/screens/sofaplay-programs.jpg">Ещё экран</a></p>
 </td>
 </tr>
 </table>
